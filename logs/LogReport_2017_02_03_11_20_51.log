@@ -1,0 +1,52 @@
+[2017-02-03 11:21:22.002] [INFO] log - *********  ACTIVITY MODULE ***************
+[2017-02-03 11:21:22.004] [INFO] log - 
+[2017-02-03 11:21:22.095] [INFO] log - ********* Start of Error Activity  ***************
+[2017-02-03 11:21:23.641] [INFO] log - WINDOW MAXIMIZING DONE
+[2017-02-03 11:21:29.564] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:21:29.565] [INFO] log - url loading done
+[2017-02-03 11:21:29.565] [INFO] log - Reading BrownTape USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:21:32.284] [INFO] log - Logged into BrownTape Done
+[2017-02-03 11:22:32.679] [INFO] log - this Test Case got Failed :Error: An element could not be located on the page using the given search parameters ("//table[@class='table table-condensed']//tr[2]//td[7]").
+[2017-02-03 11:22:32.720] [INFO] log - ********* End of Error Activity   ***************
+[2017-02-03 11:22:38.192] [INFO] log - ********* INVENTORY MODULE ***************
+[2017-02-03 11:22:38.194] [INFO] log - 
+[2017-02-03 11:22:38.285] [INFO] log - ********* Start of Listing Watch ***************
+[2017-02-03 11:22:39.496] [INFO] log - Window Maximizing Done
+[2017-02-03 11:22:42.577] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:22:42.579] [INFO] log - url loading done
+[2017-02-03 11:22:42.580] [INFO] log - Reading BrownTape USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:22:46.993] [INFO] log - Logged into BrownTape Done
+[2017-02-03 11:22:46.999] [INFO] log - Reading SnapDeal USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:24:18.499] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:24:18.500] [INFO] log - Total listing under BT and channel is same 
+[2017-02-03 11:24:18.500] [INFO] log - ********* End of ChannelListingPO Watch  *************
+[2017-02-03 11:24:18.531] [INFO] log - *********  Start of Channel Listing  ***************
+[2017-02-03 11:24:20.817] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:24:20.818] [INFO] log - url loading done
+[2017-02-03 11:24:20.819] [INFO] log - Reading BrownTape USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:24:24.463] [INFO] log - Logged into BrownTape Done
+[2017-02-03 11:25:55.481] [INFO] log - this Test Case got Failed :Error: An element could not be located on the page using the given search parameters ("//table[@class='table table-condensed']/tbody/tr[2]/td[1]").
+[2017-02-03 11:25:55.526] [INFO] log - ********* End of Channel Listing   ***************
+[2017-02-03 11:25:55.529] [INFO] log - ********* Start of Compare Stock  ***************
+[2017-02-03 11:25:56.128] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:25:56.128] [INFO] log - url loading done
+[2017-02-03 11:25:56.130] [INFO] log - Reading BrownTape USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:26:00.011] [INFO] log - Logged into BrownTape Done
+[2017-02-03 11:26:10.261] [INFO] log - Test Case Got Failed Due to : AssertionError: expected 'Fail' to equal 'Pass'
+[2017-02-03 11:26:10.262] [INFO] log - ********* End of Compare Stock ***************
+[2017-02-03 11:26:10.270] [INFO] log - ********* Start of compare out of stock Products  ***************
+[2017-02-03 11:26:10.904] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:26:10.904] [INFO] log - url loading done
+[2017-02-03 11:26:10.906] [INFO] log - Reading BrownTape USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:26:14.598] [INFO] log - Logged into BrownTape Done
+[2017-02-03 11:26:14.604] [INFO] log - Reading Paytm USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:27:14.654] [INFO] log - Test Case Got Failed Due to : AssertionError: expected NaN to equal 0
+[2017-02-03 11:27:14.655] [INFO] log - ********* End of compare out of stock Products  *************
+[2017-02-03 11:27:14.673] [INFO] log - ********* Start of compare Non-Zero Products and stocks ***************
+[2017-02-03 11:27:15.543] [INFO] log - Reading URL From Properties File Done
+[2017-02-03 11:27:15.544] [INFO] log - url loading done
+[2017-02-03 11:27:15.545] [INFO] log - Reading BrownTape USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:27:19.183] [INFO] log - Logged into BrownTape Done
+[2017-02-03 11:27:19.188] [INFO] log - Reading Paytm USERNAME and PASSWORD From Excel Done
+[2017-02-03 11:27:58.127] [INFO] log - Test Case Got Failed Due to : AssertionError: expected NaN to equal 100
+[2017-02-03 11:27:58.127] [INFO] log - ********* End of Compare Non-Zero Products and stocks  *************
